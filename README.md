@@ -10,7 +10,7 @@ You can access the files from this repository in two ways; downloading direct fr
 
 ### Download
 You can download the repository as follows:
-1. Click the green code button.
+1. Click the green `Code` button.
 2. Select `Download ZIP`
 
 A zip-file with all contents of this repository will be downloaded to your computer.
