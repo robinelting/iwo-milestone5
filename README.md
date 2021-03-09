@@ -1,6 +1,8 @@
 # Introduction to Research Methods - Milestone 5
 
 In this GitHub repository you can find a linux shell script, called `m5.sh`, that counts all occurences of the article "de" in the Dutch Wikipedia Page of the Rijksuniversiteit Groningen (https://nl.wikipedia.org/wiki/Rijksuniversiteit_Groningen).
+
+## Usage
 You can run the script as follows:
 ```ruby
 ./m5.sh FILE
