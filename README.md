@@ -6,7 +6,12 @@ In this GitHub repository you can find a linux shell script, called `m5.sh`, tha
 You can access the files from this repository in two ways; downloading direct from GitHub or cloning the repository.
 
 ### Download
-1. ![Image of Yaktocat](https://imgur.com/UWFOj1u)
+You can download the repository as follows:
+1. Click the green code button.
+2. Select `Download ZIP`
+
+A zip-file with all contents of this repository will be downloaded to your computer.
+
 ### Clone repository
 You can clone the repository as follows (Linux):
 1. Go to the directory on your computer where you want to clone the repository to.
@@ -17,7 +22,8 @@ You can clone the repository as follows (Linux):
 3. Press `Enter` to create your local clone.
 
 ## Run script
-After you have downloaded the necessary files, you can run the script as follows:
+After you have downloaded the necessary files, you can run the script.
+First go into the directory where the files are located, then run the script as follows:
 ```ruby
 ./m5.sh FILE
 ```
