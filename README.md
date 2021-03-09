@@ -43,6 +43,7 @@ or as:
 ```ruby
 sh sample.sh rug.txt
 ```
+
 In the file `sample.sh` you can also find the instructions to run the script. Moreover, in `sample.sh` you can find all the documentation of the code.
 This file is compliant with the principles of reproducibility which means that any other user will be able to exactly reproduce the results that I received.
 
