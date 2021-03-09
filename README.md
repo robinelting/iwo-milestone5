@@ -47,4 +47,4 @@ In the file `m5.sh` you can also find the instructions to run the script. Moreov
 This file is compliant with the principles of reproducibility which means that any other user will be able to exactly reproduce the results that I received.
 
 ## Results
-The result of this shell script is that the article "de" occures 212 times in the Dutch Wikipedia Page of the Rijksuniversiteit Groningen.
+The result of this shell script is that the article "de" occurs 212 times in the Dutch Wikipedia Page of the Rijksuniversiteit Groningen.
