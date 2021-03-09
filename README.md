@@ -5,7 +5,11 @@ You can run the script as follows:
 ```ruby
 ./m5.sh FILE
 ```
-In the file `m5.sh` you can find the instructions to run the script. Moreover, in `m5.sh` you can find all the documentation of the code.
+Here `FILE` specifies the file you would like to use. In the case of the `rug.txt` file you should run the script as follows:
+```ruby
+./m5.sh rug.txt
+```
+In the file `m5.sh` you can also find the instructions to run the script. Moreover, in `m5.sh` you can find all the documentation of the code.
 This file is compliant with the principles of reproducibility which means that any other user will be able to exactly reproduce the results that I received.
 
 ## Data
