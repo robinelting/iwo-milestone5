@@ -47,4 +47,4 @@ In the file `sample.sh` you can also find the instructions to run the script. Mo
 This file is compliant with the principles of reproducibility which means that any other user will be able to exactly reproduce the results that I received.
 
 ## Results
-The result of this shell script is that the article "de" occurs 212 times in the Dutch Wikipedia Page of the Rijksuniversiteit Groningen.
+The result of this shell script is that the article "de" occurs 282 times in the Dutch Wikipedia Page of the Rijksuniversiteit Groningen.

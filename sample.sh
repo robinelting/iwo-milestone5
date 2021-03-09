@@ -30,4 +30,4 @@ fi
 
 # Output each match on a new line and ignore case distinctions,
 # count the number of lines.
-grep -o -i " de " $FILE | wc -l
+grep -o -i '\bde\b' $FILE | wc -l
