@@ -6,7 +6,7 @@ In this GitHub repository you can find a linux shell script, called `m5.sh`, tha
 You can access the files from this repository in two ways; downloading direct from GitHub or cloning the repository.
 
 ### Download
-
+1. ![Image of Yaktocat](https://imgur.com/a/ngf5q15)
 ### Clone repository
 You can clone the repository as follows (Linux):
 1. Go to the directory on your computer where you want to clone the repository to.
