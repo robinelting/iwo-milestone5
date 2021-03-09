@@ -1,6 +1,6 @@
 # Introduction to Research Methods - Milestone 5
 
-In this GitHub repository you can find a linux shell script, called `m5.sh`, that counts all occurences of the article "de" in the Dutch Wikipedia Page of the Rijksuniversiteit Groningen (https://nl.wikipedia.org/wiki/Rijksuniversiteit_Groningen).
+In this GitHub repository you can find a linux shell script, called `sample.sh`, that counts all occurences of the article "de" in the Dutch Wikipedia Page of the Rijksuniversiteit Groningen (https://nl.wikipedia.org/wiki/Rijksuniversiteit_Groningen).
 
 ## Data
 Besides the shell script, you can find a text file in this repository including the data from the Dutch Wikipedia Page of the Rijksuniversiteit Groningen. This data consists of all text from the Dutch Wikipedia Page of the Rijksuniversiteit Groningen. This text file is called `rug.txt`. You can use this file to achieve the same results as I did.
@@ -29,21 +29,21 @@ You can clone the repository as follows (Linux):
 After you have downloaded the necessary files, you can run the script.
 First go into the directory where the files are located, then run the script as follows:
 ```ruby
-./m5.sh FILE
+./sample.sh FILE
 ```
 or as:
 ```ruby
-sh m5.sh FILE
+sh sample.sh FILE
 ```
 Here `FILE` specifies the file you would like to use. In the case of the `rug.txt` file you should run the script as follows:
 ```ruby
-./m5.sh rug.txt
+./sample.sh rug.txt
 ```
 or as:
 ```ruby
-sh m5.sh rug.txt
+sh sample.sh rug.txt
 ```
-In the file `m5.sh` you can also find the instructions to run the script. Moreover, in `m5.sh` you can find all the documentation of the code.
+In the file `sample.sh` you can also find the instructions to run the script. Moreover, in `sample.sh` you can find all the documentation of the code.
 This file is compliant with the principles of reproducibility which means that any other user will be able to exactly reproduce the results that I received.
 
 ## Results
