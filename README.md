@@ -2,13 +2,12 @@
 
 In this GitHub repository you can find a linux shell script, called `m5.sh`, that counts all occurences of the article "de" in the Dutch Wikipedia Page of the Rijksuniversiteit Groningen (https://nl.wikipedia.org/wiki/Rijksuniversiteit_Groningen).
 
-## Usage
-### Access files
+## Access files
 You can access the files from this repository in two ways; downloading direct from GitHub or cloning the repository.
 
-#### Download
+### Download
 
-#### Clone repository
+### Clone repository
 You can clone the repository as follows (Linux):
 1. Go to the directory on your computer where you want to clone the repository to.
 2. Type ```git clone``` and paste the URL of this repository:
